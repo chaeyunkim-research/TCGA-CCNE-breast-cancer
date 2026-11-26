@@ -3,9 +3,23 @@
   "upload_type": "software",
   "description": "Analysis code for a retrospective study of CCNE1 and CCNE2 expression and overall survival in TCGA-BRCA, METABRIC and SCAN-B, including coexpression pathway analyses and additional analyses of proliferation, paralog contrast, copy number and tumor purity.",
   "creators": [
-    {"name": "Lee, Jun-Chae", "affiliation": "Keimyung University School of Medicine"},
-    {"name": "Kim, Chaeyun", "affiliation": "Keimyung University School of Medicine"}
+    {
+      "name": "Kim, Chaeyun",
+      "affiliation": "Keimyung University School of Medicine"
+    },
+    {
+      "name": "Lee, Jun-Chae",
+      "affiliation": "Keimyung University School of Medicine"
+    }
   ],
   "license": "MIT",
-  "keywords": ["breast cancer", "CCNE1", "CCNE2", "survival analysis", "TCGA", "METABRIC", "SCAN-B"]
+  "keywords": [
+    "breast cancer",
+    "CCNE1",
+    "CCNE2",
+    "survival analysis",
+    "TCGA",
+    "METABRIC",
+    "SCAN-B"
+  ]
 }

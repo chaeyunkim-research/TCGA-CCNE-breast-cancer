@@ -3,13 +3,14 @@ message: "If you use this code, please cite it as below."
 title: "Code for: Comparative survival associations and coexpression pathways of CCNE1 and CCNE2 in breast cancer"
 type: software
 authors:
-  - family-names: "Lee"
-    given-names: "Jun-Chae"
-    affiliation: "Keimyung University School of Medicine"
   - family-names: "Kim"
     given-names: "Chaeyun"
     affiliation: "Keimyung University School of Medicine"
-version: "1.0.0"
+  - family-names: "Lee"
+    given-names: "Jun-Chae"
+    affiliation: "Keimyung University School of Medicine"
+version: "1.0.1"
 license: MIT
+doi: "10.5281/zenodo.24556124"
 repository-code: "https://github.com/chaeyunkim-research/ccne-breast-survival"
 keywords: [breast cancer, CCNE1, CCNE2, survival analysis, TCGA, METABRIC, SCAN-B]
