@@ -1,0 +1,7 @@
+# input data and generated outputs are not tracked
+upload/
+work/
+out/
+ccne_work/
+*.gz
+__pycache__/

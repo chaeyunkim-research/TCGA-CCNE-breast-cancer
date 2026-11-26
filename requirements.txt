@@ -1,0 +1,10 @@
+# Main and clinical-expression analyses (original run: Python 3.12)
+numpy
+pandas
+scipy
+matplotlib
+lifelines==0.30.3
+rdata
+# Additional analyses (additional/run_all.py)
+statsmodels
+pyreadr
